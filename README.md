@@ -123,8 +123,8 @@ Zorunlu değildir. Bu izin olmadan da her şey çalışır, yalnızca hizmet kap
 
 ### Dil desteği
 
-- 🇹🇷 Türkçe
-- 🇬🇧 English
+- Türkçe
+- English
 
 Uygulama cihazın sistem diline göre otomatik olarak Türkçe ya da İngilizce açılır. Diğer dillerde İngilizce kullanılır.
 
@@ -250,8 +250,8 @@ This is optional. Everything works without it; you just have to turn the service
 
 ### Languages
 
-- 🇹🇷 Türkçe
-- 🇬🇧 English
+- Türkçe
+- English
 
 The app follows the device language and opens in Turkish or English. Any other language falls back to English.
 
