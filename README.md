@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">DuoPanel</h1>
+<h1 align="center">DuoPanel (for Android Head Unit)</h1>
 
 <p align="center">
   <b>Araç ekranları için iki uygulamayı yan yana açan bölünmüş ekran başlatıcısı</b><br>
