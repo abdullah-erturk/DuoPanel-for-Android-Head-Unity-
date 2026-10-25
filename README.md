@@ -282,5 +282,5 @@ If you like the app: [☕ Buy me a coffee](https://buymeacoffee.com/abdullahertu
   Bu uygulama <b>Abdullah ERTÜRK</b> tarafından kodlanmıştır.<br>
   This app was coded by <b>Abdullah ERTÜRK</b>.<br><br>
   <a href="https://github.com/abdullah-erturk">github.com/abdullah-erturk</a> ·
-  <a href="https://buymeacoffee.com/abdullaherturk">buymeacoffee.com/abdullaherturk</a>
+  <a href="https://erturk-dev.netlify.app">erturk-dev.netlify.app</a>
 </p>
