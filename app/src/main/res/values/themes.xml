@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DuoPanel" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:textColorPrimary">@color/text</item>
+        <item name="dpBg">@color/bg</item>
+        <item name="dpGlass">@color/glass</item>
+        <item name="dpGlassStrong">@color/glass_strong</item>
+        <item name="dpBorder">@color/glass_border</item>
+        <item name="dpText">@color/text</item>
+        <item name="dpMuted">@color/muted</item>
+        <item name="dpAccent">@color/accent</item>
+        <item name="dpOnAccent">@color/on_accent</item>
+        <item name="dpAccentSoft">@color/accent_soft</item>
+        <item name="dpTrack">@color/track</item>
+        <item name="dpOk">@color/ok</item>
+        <item name="dpWarn">@color/warn</item>
+    </style>
+    <style name="Theme.DuoPanel.Light" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/l_bg</item>
+        <item name="android:statusBarColor">@color/l_bg</item>
+        <item name="android:navigationBarColor">@color/l_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorAccent">@color/l_accent</item>
+        <item name="android:textColorPrimary">@color/l_text</item>
+        <item name="dpBg">@color/l_bg</item>
+        <item name="dpGlass">@color/l_glass</item>
+        <item name="dpGlassStrong">@color/l_glass_strong</item>
+        <item name="dpBorder">@color/l_border</item>
+        <item name="dpText">@color/l_text</item>
+        <item name="dpMuted">@color/l_muted</item>
+        <item name="dpAccent">@color/l_accent</item>
+        <item name="dpOnAccent">@color/l_on_accent</item>
+        <item name="dpAccentSoft">@color/l_accent_soft</item>
+        <item name="dpTrack">@color/l_track</item>
+        <item name="dpOk">@color/l_ok</item>
+        <item name="dpWarn">@color/l_warn</item>
+    </style>
+    <style name="Theme.DuoPanel.Dialog" parent="android:Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">@color/accent</item>
+    </style>
+    <style name="Theme.DuoPanel.Light.Dialog" parent="android:Theme.Material.Light.Dialog.Alert">
+        <item name="android:colorAccent">@color/l_accent</item>
+    </style>
+</resources>

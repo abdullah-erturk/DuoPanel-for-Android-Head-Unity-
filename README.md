@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-![sample](https://raw.githubusercontent.com/abdullah-erturk/DuoPanel-for-Android-Head-Unity-/refs/heads/main/duopanel_settings.jpg?token=GHSAT0AAAAAAENRFHFP5JFXN2DETHREEIIU2W54NYQ)
-
-![sample](https://raw.githubusercontent.com/abdullah-erturk/DuoPanel-for-Android-Head-Unity-/refs/heads/main/duopanel-split.jpg?token=GHSAT0AAAAAAENRFHFPBSBXRVPI5N656UTC2W54MRA)
+  <img src="https://github.com/abdullah-erturk/DuoPanel-for-Android-Head-Unity-/blob/main/images/duopanel-split.jpg?raw=true" alt="DuoPanel - Haritalar ve müzik yan yana / Maps and music side by side" width="100%">
 </p>
 
 <p align="center">
