@@ -18,7 +18,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><h2>🇹🇷 Türkçe</h2></summary>
 
 ### Nedir?
