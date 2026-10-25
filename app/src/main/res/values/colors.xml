@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0A0D12</color>
+    <color name="glass">#B8161D29</color>
+    <color name="glass_strong">#E6161D29</color>
+    <color name="glass_border">#1FFFFFFF</color>
+    <color name="text">#E8ECF1</color>
+    <color name="muted">#8F9AAA</color>
+    <color name="accent">#22D3EE</color>
+    <color name="on_accent">#04222A</color>
+    <color name="accent_soft">#2922D3EE</color>
+    <color name="track">#24FFFFFF</color>
+    <color name="ok">#34D399</color>
+    <color name="warn">#FBBF24</color>
+    <color name="l_bg">#E9EEF2</color>
+    <color name="l_glass">#D9FFFFFF</color>
+    <color name="l_glass_strong">#F2FFFFFF</color>
+    <color name="l_border">#26000000</color>
+    <color name="l_text">#101828</color>
+    <color name="l_muted">#526071</color>
+    <color name="l_accent">#0E7490</color>
+    <color name="l_on_accent">#FFFFFF</color>
+    <color name="l_accent_soft">#240E7490</color>
+    <color name="l_track">#1F101828</color>
+    <color name="l_ok">#059669</color>
+    <color name="l_warn">#D97706</color>
+</resources>

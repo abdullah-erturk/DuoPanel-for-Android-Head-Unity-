@@ -1,0 +1,36 @@
+plugins { id 'com.android.application' }
+android {
+    lint {
+        disable 'ProtectedPermissions'   // WRITE_SECURE_SETTINGS: istege bagli, adb ile verilir
+    }
+    // Kalici imza: anahtar ve sifreler depoya konmaz, proje kokundeki keystore.properties dosyasindan okunur
+    def ksFile = rootProject.file('keystore.properties')
+    def ks = new Properties()
+    if (ksFile.exists()) ks.load(new FileInputStream(ksFile))
+    signingConfigs {
+        release {
+            if (ksFile.exists()) {
+                storeFile rootProject.file(ks['storeFile'])
+                storePassword ks['storePassword']
+                keyAlias ks['keyAlias']
+                keyPassword ks['keyPassword']
+            }
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            if (ksFile.exists()) signingConfig signingConfigs.release
+        }
+    }
+    namespace 'com.abdullaherturk.duopanel'
+    compileSdk 34
+    defaultConfig {
+        applicationId 'com.abdullaherturk.duopanel'
+        minSdk 24
+        targetSdk 33
+        versionCode 1
+        versionName '1.0'
+    }
+    compileOptions { sourceCompatibility JavaVersion.VERSION_1_8; targetCompatibility JavaVersion.VERSION_1_8 }
+}

@@ -1,0 +1,12 @@
+# imza anahtari ve sifreleri ASLA depoya koyma
+*.jks
+*.keystore
+keystore.properties
+
+# derleme ciktilari
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml

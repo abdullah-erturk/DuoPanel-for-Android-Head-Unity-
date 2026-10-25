@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="dpBg" format="color|reference" />
+    <attr name="dpGlass" format="color|reference" />
+    <attr name="dpGlassStrong" format="color|reference" />
+    <attr name="dpBorder" format="color|reference" />
+    <attr name="dpText" format="color|reference" />
+    <attr name="dpMuted" format="color|reference" />
+    <attr name="dpAccent" format="color|reference" />
+    <attr name="dpOnAccent" format="color|reference" />
+    <attr name="dpAccentSoft" format="color|reference" />
+    <attr name="dpTrack" format="color|reference" />
+    <attr name="dpOk" format="color|reference" />
+    <attr name="dpWarn" format="color|reference" />
+</resources>
