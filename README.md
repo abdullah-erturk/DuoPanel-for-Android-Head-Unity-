@@ -25,7 +25,7 @@
 ---
 
 <details>
-<summary><h2>🇹🇷 Türkçe</h2></summary>
+<summary><h2>Türkçe</h2></summary>
 
 ### Nedir?
 
@@ -152,7 +152,7 @@ Uygulamayı beğendiyseniz: [☕ Buy me a coffee](https://buymeacoffee.com/abdul
 ---
 
 <details>
-<summary><h2>🇬🇧 English</h2></summary>
+<summary><h2>English</h2></summary>
 
 ### What is it?
 
