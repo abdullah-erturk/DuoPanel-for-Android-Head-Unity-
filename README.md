@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-![sample](https://github.com/abdullah-erturk/DuoPanel-for-Android-Head-Unity-/blob/main/duopanel-split.jpg)
+![sample](https://github.com/abdullah-erturk/DuoPanel-for-Android-Head-Unity-/blob/main/duopanel-split.jpg?raw=true)
 
-![sample](https://raw.githubusercontent.com/abdullah-erturk/DuoPanel-for-Android-Head-Unity-/refs/heads/main/duopanel_settings.jpg?token=GHSAT0AAAAAAENRFHFPHPGOOYRTKCJ35R522W54KPA)
+![sample](https://raw.githubusercontent.com/abdullah-erturk/DuoPanel-for-Android-Head-Unity-/refs/heads/main/duopanel_settings.jpg
 </p>
 
 <p align="center">
